@@ -76,3 +76,9 @@ form button {
   color: #fff;
   cursor: pointer;
 }
+
+.coming-soon {
+  background: #555;
+  color: #ccc;
+  cursor: not-allowed;
+}
